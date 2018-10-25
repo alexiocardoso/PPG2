@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PPG</string>
+    <string name="add">Add</string>
+    <string name="search">Search</string>
+    <string name="textViewSearch">Game Title or Task Title</string>
+    <string name="game">Game</string>
+    <string name="name">Name</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="author">Author</string>
+    <string name="duration">Duration</string>
+    <string name="gameDate">Date</string>
+    <string name="game_id">ID</string>
+    <string name="edit">Edit</string>
+    <string name="lastEditDate">Last edit date:</string>
+    <string name="uniqueID">Unique ID:</string>
+</resources>
